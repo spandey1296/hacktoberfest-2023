@@ -171,12 +171,7 @@ $ git push -u origin BranchName
 Finally, go to your repository in the browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
-## Awesome contributors :star_struck:
-<a href="https://github.com/kishanrajput23/Hacktoberfest-2023/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=kishanrajput23/Hacktoberfest-2023" />
-</a>
 
-Made with [contributors-img](https://contributors-img.web.app).
 
 
 ## Help Contributing Guides :crown:
@@ -187,7 +182,7 @@ Please discuss it with us first by creating a new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
-## Author🙍‍♂️ : [Find Me Here](https://linktr.ee/kishan_rajput23)
+
 
 # Learn-Share-Hacktoberfest2023
 ✧  🎀  𝐓𝐡𝐢𝐬 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐜𝐨𝐧𝐭𝐚𝐢𝐧𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐚𝐬𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭𝐬 𝐭𝐡𝐚𝐭 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞 𝐭𝐨 𝐰𝐨𝐫𝐤 𝐨𝐧 𝐛𝐲 𝐬𝐞𝐧𝐝𝐢𝐧𝐠 𝐨𝐧𝐥𝐲 𝟒 𝐯𝐚𝐥𝐢𝐝 𝐩𝐮𝐥𝐥 𝐫𝐞𝐪𝐮𝐞𝐬𝐭𝐬. 𝐒𝐭𝐞𝐩 𝐛𝐲 𝐬𝐭𝐞𝐩 𝐆𝐮𝐢𝐝𝐚𝐧𝐜𝐞 𝐰𝐢𝐥𝐥 𝐛𝐞 𝐦𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐫𝐞𝐚𝐝𝐦𝐞.𝐦𝐝 𝒯𝒽𝒾𝓈 𝓇𝑒𝓅♡𝓈𝒾𝓉🍪𝓇𝓎 𝓌𝒾𝓁𝓁 𝒸🌺𝓃𝓈𝒾𝓈𝓉 𝓂𝑒𝓇𝑔𝑒 𝒻𝓇♡𝓂 𝓉𝒽𝑒 𝒶𝓁𝓁 𝓅𝒶𝓇𝓉𝒾𝒸𝒾𝓅𝒶𝓃𝓉𝓈 🌺𝒻 𝒽𝒶𝒸𝓀𝓉❁𝒷𝑒𝓇𝒻𝑒𝓈𝓉 𝟤❤𝟤𝟣 𝓅🍪𝓌𝑒𝓇𝑒𝒹 𝒷𝓎 𝒟𝒾𝑔𝒾𝓉𝒶𝓁🍑𝒸𝑒𝒶𝓃.  🎀
