@@ -1,0 +1,12 @@
+Step 1 :
+  whois lookup
+    get details of servers, location of servers, cname records, use nslookup, also get details of last edit and validity.
+    
+step 2 :
+  before performing below steps-- have a check on your public ip...
+   start nmap and get details of open ports tcp/ftp
+   use nikto
+   use recon ng
+   also use legion
+   use wayback machine
+   by now you know target servers (ip address), open ports(tcp/ftp) 
